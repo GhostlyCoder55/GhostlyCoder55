@@ -1,5 +1,5 @@
 # Know Me:
-I’m currently working on an IOS application called CheerUp!<br>I’m looking to collaborate on projects involving machine learning and AI.<br>I’m learning computer architecture and system software.<br>I’m a part-time gamer and I play the guitar.<br>
+I’m currently working on an IOS application called CheerUp!<br>I’m looking to collaborate on projects involving machine learning and AI.<br>I’m learning computer architecture and system software.<br>I’m a casual gamer and I play the guitar.<br>
 
 
 ## 🌐 Socials:
